@@ -147,6 +147,11 @@ img {
         width: 100%;
     }
 
+    .steps{
+        margin-bottom: 0;
+        padding-bottom: 3rem;
+    }
+
     .why-us .col-left{
         width: 100%;
     }
@@ -157,5 +162,12 @@ img {
 
     .why-us .col-right li{
         text-align: left;
+    }
+
+    .why-us{
+        margin-bottom: 0;
+        padding-top: 3rem;
+        padding-bottom: 3rem;
+        background-color: rgb(24, 24, 24);
     }
 }
